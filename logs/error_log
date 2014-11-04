@@ -1,0 +1,38 @@
+[Sun Nov  2 16:15:50 2014] [notice] Initializing etag from /var/www/logs/etag-state
+[Sun Nov  2 16:15:50 2014] [notice] Initializing etag from /var/www/logs/etag-state
+[Sun Nov  2 16:15:50 2014] [notice] chrooted in /var/www
+[Sun Nov  2 16:15:50 2014] [notice] changed to uid 67, gid 67
+[Sun Nov  2 16:15:50 2014] [notice] Apache configured -- resuming normal operations
+[Sun Nov  2 16:15:50 2014] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Mon Nov  3 10:07:37 2014] [notice] caught SIGTERM, shutting down
+[Mon Nov  3 12:03:50 2014] [notice] Initializing etag from /var/www/logs/etag-state
+[Mon Nov  3 12:03:50 2014] [notice] chrooted in /var/www
+[Mon Nov  3 12:03:50 2014] [notice] changed to uid 67, gid 67
+[Mon Nov  3 12:03:51 2014] [notice] Apache configured -- resuming normal operations
+[Mon Nov  3 12:03:51 2014] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Mon Nov  3 12:06:04 2014] [crit] (48)Address already in use: make_sock: could not bind to address 0.0.0.0 port 80
+[Mon Nov  3 12:11:45 2014] [crit] (48)Address already in use: make_sock: could not bind to address 0.0.0.0 port 80
+[Mon Nov  3 12:13:56 2014] [notice] caught SIGTERM, shutting down
+[Mon Nov  3 12:14:09 2014] [notice] Initializing etag from /var/www/logs/etag-state
+[Mon Nov  3 12:14:09 2014] [notice] chrooted in /var/www
+[Mon Nov  3 12:14:09 2014] [notice] changed to uid 67, gid 67
+[Mon Nov  3 12:14:09 2014] [notice] Apache configured -- resuming normal operations
+[Mon Nov  3 12:14:09 2014] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Mon Nov  3 12:14:15 2014] [notice] caught SIGTERM, shutting down
+[Mon Nov  3 12:14:17 2014] [notice] Initializing etag from /var/www/logs/etag-state
+[Mon Nov  3 12:14:17 2014] [notice] chrooted in /var/www
+[Mon Nov  3 12:14:17 2014] [notice] changed to uid 67, gid 67
+[Mon Nov  3 12:14:17 2014] [notice] Apache configured -- resuming normal operations
+[Mon Nov  3 12:14:17 2014] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Mon Nov  3 12:25:55 2014] [notice] caught SIGTERM, shutting down
+[Mon Nov  3 12:26:30 2014] [notice] Initializing etag from /var/www/logs/etag-state
+[Mon Nov  3 12:26:30 2014] [notice] chrooted in /var/www
+[Mon Nov  3 12:26:30 2014] [notice] changed to uid 67, gid 67
+[Mon Nov  3 12:26:30 2014] [notice] Apache configured -- resuming normal operations
+[Mon Nov  3 12:26:30 2014] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Mon Nov  3 14:04:06 2014] [notice] caught SIGTERM, shutting down
+[Mon Nov  3 14:04:11 2014] [notice] Initializing etag from /var/www/logs/etag-state
+[Mon Nov  3 14:04:11 2014] [notice] chrooted in /var/www
+[Mon Nov  3 14:04:11 2014] [notice] changed to uid 67, gid 67
+[Mon Nov  3 14:04:11 2014] [notice] Apache configured -- resuming normal operations
+[Mon Nov  3 14:04:11 2014] [notice] Accept mutex: sysvsem (Default: sysvsem)
