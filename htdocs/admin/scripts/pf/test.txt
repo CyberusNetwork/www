@@ -1,0 +1,18 @@
+z
+rgkz
+^g
+zh$
+zeh
+$ze
+hez
+##haltq on 
+##
+### QOS_free
+##altq on $free cbq bandwidth 800Kb queue { std, ssh, http, sip }
+##oldqueue std bandwidth 60% priority 1 cbq(default)
+#oldqueue ssh bandwidth 25% priority 2 cbq(ecn)
+#oldqueue http bandwidth 10% priority 3 cbq(red)
+#oldqueue sip bandwidth 5% priority 4 cbq(borrow red)
+# END_QOS_free
+
+# QOS_sfr

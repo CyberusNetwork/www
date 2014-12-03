@@ -36,3 +36,30 @@
 [Mon Nov  3 14:04:11 2014] [notice] changed to uid 67, gid 67
 [Mon Nov  3 14:04:11 2014] [notice] Apache configured -- resuming normal operations
 [Mon Nov  3 14:04:11 2014] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Tue Nov  4 12:42:44 2014] [notice] caught SIGTERM, shutting down
+[Wed Nov  5 10:41:46 2014] [notice] Initializing etag from /var/www/logs/etag-state
+[Wed Nov  5 10:41:46 2014] [notice] chrooted in /var/www
+[Wed Nov  5 10:41:46 2014] [notice] changed to uid 67, gid 67
+[Wed Nov  5 10:41:46 2014] [notice] Apache configured -- resuming normal operations
+[Wed Nov  5 10:41:46 2014] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Wed Nov  5 10:45:38 2014] [notice] caught SIGTERM, shutting down
+[Wed Nov  5 11:01:56 2014] [notice] Initializing etag from /var/www/logs/etag-state
+[Wed Nov  5 11:01:56 2014] [notice] chrooted in /var/www
+[Wed Nov  5 11:01:56 2014] [notice] changed to uid 67, gid 67
+[Wed Nov  5 11:01:56 2014] [notice] Apache configured -- resuming normal operations
+[Wed Nov  5 11:01:56 2014] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Wed Nov  5 11:02:06 2014] [notice] caught SIGTERM, shutting down
+[Wed Nov  5 13:37:53 2014] [crit] (48)Address already in use: make_sock: could not bind to address 0.0.0.0 port 80
+[Wed Nov  5 13:38:00 2014] [crit] (48)Address already in use: make_sock: could not bind to address 0.0.0.0 port 80
+[Wed Nov 19 13:47:18 2014] [notice] Initializing etag from /var/www/logs/etag-state
+[Wed Nov 19 13:47:18 2014] [notice] chrooted in /var/www
+[Wed Nov 19 13:47:18 2014] [notice] changed to uid 67, gid 67
+[Wed Nov 19 13:47:18 2014] [notice] Apache configured -- resuming normal operations
+[Wed Nov 19 13:47:18 2014] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Wed Nov 19 13:50:04 2014] [notice] caught SIGTERM, shutting down
+[Tue Nov 25 10:12:18 2014] [notice] Initializing etag from /var/www/logs/etag-state
+[Tue Nov 25 10:12:18 2014] [notice] chrooted in /var/www
+[Tue Nov 25 10:12:18 2014] [notice] changed to uid 67, gid 67
+[Tue Nov 25 10:12:18 2014] [notice] Apache configured -- resuming normal operations
+[Tue Nov 25 10:12:18 2014] [notice] Accept mutex: sysvsem (Default: sysvsem)
+[Tue Nov 25 10:13:33 2014] [notice] caught SIGTERM, shutting down
